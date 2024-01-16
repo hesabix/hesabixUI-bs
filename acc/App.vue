@@ -135,14 +135,14 @@ export default {
       <div class="bg-primary-op">
         <div class="content-header">
           <!-- User Avatar -->
-          <a class="img-link me-1" href="https://api.hesabix.ir/profile/dashboard">
+          <a class="img-link me-1" href="https://app.bearsoft.ir/profile/dashboard">
             <vue-gravatar class="img-avatar img-avatar32 img-avatar-thumb" :email="this.userEmail" :size="32" />
           </a>
           <!-- END User Avatar -->
 
           <!-- User Info -->
           <div class="ms-2">
-            <a class="text-white fw-semibold" href="https://api.hesabix.ir/profile/dashboard">{{userFullName}}</a>
+            <a class="text-white fw-semibold" href="https://app.bearsoft.ir/profile/dashboard">{{userFullName}}</a>
             <div class="text-white-75 fs-sm">{{userEmail}}</div>
           </div>
           <!-- END User Info -->
@@ -622,14 +622,6 @@ export default {
                   <span class="nav-main-link-name">
                     <i class="fa fa-users-gear"></i>
                     کاربران و دسترسی‌ها
-                  </span>
-                </router-link>
-              </li>
-              <li v-if="permissions.owner" class="nav-main-item">
-                <router-link class="nav-main-link" to="/acc/business/apis">
-                  <span class="nav-main-link-name">
-                    <i class="fa fa-plug-circle-xmark"></i>
-                    دسترسی توسعه دهندگان
                   </span>
                 </router-link>
               </li>

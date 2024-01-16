@@ -100,7 +100,7 @@ export default defineComponent({
                     </RouterLink>
                   </div>
                   <div class="col-sm-4 col-xl-3">
-                    <a class="block block-bordered block-link-pop text-center mb-0" href="https://app.hesabix.ir/profile/support-new">
+                    <a class="block block-bordered block-link-pop text-center mb-0" href="https://app.bearsoft.ir/profile/support-new">
                       <div class="block-content block-content-full text-center">
                         <div class="py-2">
                           <i class="far fa-2x fa-user-circle text-primary d-none d-sm-inline-block mb-3"></i>

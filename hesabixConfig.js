@@ -6,14 +6,15 @@ export function getApiUrl() {
     This set for access user interface to API.
     If this be wrong user interface not functioning probably.
      */
-    return 'https://next.hesabix.ir';
+    //return 'https://next.hesabix.ir';
     //return 'http://localhost';
     //return 'https://hesabix.ir';
+    return 'https://bearsoft.ir'
 }
 export function getVersionCheckerUrl() {
     /*
     When you use hesabix in local cloudes with this URL you can check for last version of hesabix
     If you do not know about this do not change it!
      */
-    return 'https://hesabix.ir/clude/last-version';
+    return 'https://bearsoft.ir/clude/last-version';
 }

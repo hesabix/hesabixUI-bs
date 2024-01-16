@@ -19,9 +19,9 @@ export default defineComponent({
                         <!-- Header -->
                         <div class="flex-grow-0 p-5">
                             <a class="link-fx fw-bold fs-2" href="/">
-                                <span class="text-dark">حساب</span><span class="text-primary">یکس</span>
+                                <span class="text-dark">بیر</span><span class="text-primary">سافت</span>
                             </a>
-                            <p class="text-uppercase fw-bold fs-sm text-muted mb-0"> به روزترین سامانه حسابداری ابری و رایگان </p>
+                            <p class="text-uppercase fw-bold fs-sm text-muted mb-0"> حسابداری بر پایه ابر </p>
                         </div>
                         <!-- END Header -->
 
@@ -41,7 +41,7 @@ export default defineComponent({
                         <!-- Footer -->
                         <ul class="list-inline flex-gow-1 p-5 fs-sm fw-medium mb-0">
                             <li class="list-inline-item">
-                                <a class="text-muted" href="https://app.hesabix.ir/"> گزارش خطا </a>
+                                <a class="text-muted" href="https://app.bearsoft.ir/"> گزارش خطا </a>
                             </li>
                         </ul>
                         <!-- END Footer -->

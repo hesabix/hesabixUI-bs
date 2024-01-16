@@ -32,7 +32,7 @@
         <!-- Left Section -->
         <div>
           <!-- Logo -->
-          <RouterLink class="fw-semibold text-white" to="/">حساب<span class="opacity-75">یکس</span></RouterLink>
+          <RouterLink class="fw-semibold text-white" to="/">بیر<span class="opacity-75">سافت</span></RouterLink>
           <!-- END Logo -->
         </div>
         <!-- END Left Section -->
@@ -142,7 +142,7 @@
         <div class="row fs-sm">
           <div class="col-sm-6 order-sm-2 mb-1 mb-sm-0 text-center text-sm-end">بیرسافت با
           <i class="fa fa-heart text-danger"></i>
-            متن باز است.
+            در کنار شماست
           </div>
           <div class="col-sm-6 order-sm-1 text-center text-sm-start">
             <a class="fw-semibold" href="https://github.com/morrning/hesabixCore" target="_blank">بیرسافت {{this.hesabix.version}}</a>

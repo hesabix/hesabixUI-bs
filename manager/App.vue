@@ -136,7 +136,7 @@ export default {
       <div class="smini-hidden">
         <div class="content-header justify-content-lg-center bg-black-10">
           <!-- Logo -->
-          <router-link class="fw-semibold text-white tracking-wide" to="/">Hesabi<span class="opacity-75">x</span>
+          <router-link class="fw-semibold text-white tracking-wide" to="/">Bear<span class="opacity-75">soft</span>
             <span class="fw-normal"> مدیریت </span>
           </router-link>
           <!-- END Logo -->

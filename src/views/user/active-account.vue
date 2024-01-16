@@ -100,7 +100,7 @@ export default defineComponent({
               <!-- Header -->
               <div class="mb-2 text-center">
                 <a class="link-fx fw-bold fs-1" href="/">
-                  <span class="text-dark">حساب</span><span class="text-primary">یکس</span>
+                  <span class="text-dark">بیر</span><span class="text-primary">سافت</span>
                 </a>
                 <p class="text-uppercase fw-bold fs-sm text-muted"> احراز هویت </p>
               </div>
