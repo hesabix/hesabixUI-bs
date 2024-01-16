@@ -157,7 +157,7 @@
             <div class="space-y-2">
               <div class="form-check form-switch">
                 <input v-model="info.wallet" @change="savePerms()" class="form-check-input" type="checkbox">
-                <label class="form-check-label">کیف پول حسابیکس</label>
+                <label class="form-check-label">کیف پول بیرسافت</label>
               </div>
             </div>
             <div class="space-y-2">

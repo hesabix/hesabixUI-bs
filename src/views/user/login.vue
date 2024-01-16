@@ -47,7 +47,7 @@
                       <span class="visually-hidden">Loading...</span>
                     </div>
                     <i class="fa fa-fw fa-sign-in-alt opacity-50 me-1"></i>
-                    ورود به حسابیکس
+                    ورود به بیرسافت
                   </button>
                 </div>
                 <div class="text-center mt-4">

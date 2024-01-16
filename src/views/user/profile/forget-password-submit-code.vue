@@ -53,7 +53,7 @@ export default {
             Swal.fire({
               text: 'کلمه عبور جدید به پست الکترونیکی و موبایل شما ارسال شد.',
               icon: 'success',
-              confirmButtonText: 'ورود به حسابیکس'
+              confirmButtonText: 'ورود به بیرسافت'
             }).then((res)=>{
               this.$router.push('/user/login');
             });

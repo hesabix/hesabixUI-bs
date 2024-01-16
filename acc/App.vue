@@ -264,7 +264,7 @@ export default {
               </span>
           <span class="smini-hidden"><span class="text-light">
             <img alt="hesabix" style="max-height:25px" src="/assets/media/favicons/favw.png"/>
-            حسابیکس
+            بیرسافت
           </span>
               </span>
         </router-link>
@@ -776,7 +776,7 @@ export default {
 
               <div class="dropdown-divider" role="separator"></div>
               <button class="dropdown-item" @click="this.logout">
-                <i class="far fa-fw fa-arrow-alt-circle-left me-1"></i> خروج از حسابیکس </button>
+                <i class="far fa-fw fa-arrow-alt-circle-left me-1"></i> خروج از بیرسافت </button>
             </div>
           </div>
         </div>
